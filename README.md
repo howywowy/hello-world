@@ -1,6 +1,6 @@
 # hello-world
 Dit is de readme-edits branch van de master van hello-world
-een branch is een kopie van de master, om code te wijzigen en te testetn
+een branch is een kopie van de master, om code te wijzigen en te testen
 
 Je kunt de code voor review aanbieden via een Pull requets
 
